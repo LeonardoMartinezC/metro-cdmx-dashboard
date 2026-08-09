@@ -1,0 +1,852 @@
+{
+  "stations": {
+    "Centro MÃ©dico": "Centro Médico",
+    "Valle GÃ³mez": "Valle Gómez",
+    "Atlalilco": "Atlalilco",
+    "JuÃ¡rez": "Juárez",
+    "Panteones": "Panteones",
+    "UAM-Azcapotzalco": "UAM-Azcapotzalco",
+    "Tacubaya": "Tacubaya",
+    "Eduardo Molina": "Eduardo Molina",
+    "Olivos": "Olivos",
+    "Terminal AÃ©rea": "Terminal Aérea",
+    "Bosque de AragÃ³n": "Bosque de Aragón",
+    "Insurgentes": "Insurgentes",
+    "General Anaya": "General Anaya",
+    "San Juan de LetrÃ¡n": "San Juan de Letrán",
+    "La Paz": "La Paz",
+    "Auditorio": "Auditorio",
+    "Doctores": "Doctores",
+    "Balderas": "Balderas",
+    "ConstituciÃ³n de 1917": "Constitución de 1917",
+    "Ecatepec": "Ecatepec",
+    "Villa de Cortés": "Villa de Cortés",
+    "Jamaica": "Jamaica",
+    "Barranca del Muerto": "Barranca del Muerto",
+    "Camarones": "Camarones",
+    "GÃ³mez FarÃ­as": "Gómez Farías",
+    "Morelos": "Morelos",
+    "Nopalera": "Nopalera",
+    "Tezonco": "Tezonco",
+    "Miguel Ãngel de Quevedo": "Miguel Ángel de Quevedo",
+    "Iztacalco": "Iztacalco",
+    "Plaza AragÃ³n": "Plaza Aragón",
+    "Puebla": "Puebla",
+    "Chapultepec": "Chapultepec",
+    "CoyoacÃ¡n": "Coyoacán",
+    "MartÃ­n Carrera": "Martín Carrera",
+    "San Antonio": "San Antonio",
+    "Ricardo Flores MagÃ³n": "Ricardo Flores Magón",
+    "Zapata": "Zapata",
+    "Aculco": "Aculco",
+    "Normal": "Normal",
+    "Chilpancingo": "Chilpancingo",
+    "Mexicaltzingo": "Mexicaltzingo",
+    "Balbuena": "Balbuena",
+    "RÃ­o de los Remedios": "Río de los Remedios",
+    "LÃ¡zaro CÃ¡rdenas": "Lázaro Cárdenas",
+    "Nativitas": "Nativitas",
+    "San Antonio Abad": "San Antonio Abad",
+    "FerrerÃ­a/Arena Ciudad de MÃ©xico": "Ferrería/Arena Ciudad de México",
+    "Los Reyes": "Los Reyes",
+    "ZapotitlÃ¡n": "Zapotitlán",
+    "Canal del Norte": "Canal del Norte",
+    "Tacuba": "Tacuba",
+    "Viaducto": "Viaducto",
+    "Observatorio": "Observatorio",
+    "Obrera": "Obrera",
+    "Isabel la CatÃ³lica": "Isabel la Católica",
+    "PeÃ±Ã³n viejo": "Peñón Viejo",
+    "Mixcoac": "Mixcoac",
+    "Calle 11": "Calle 11",
+    "Merced": "Merced",
+    "Canal de San Juan": "Canal de San Juan",
+    "Deportivo OceanÃ­a": "Deportivo Oceanía",
+    "Hangares": "Hangares",
+    "Olímpica": "Olímpica",
+    "Viveros/Derechos Humanos": "Viveros/Derechos Humanos",
+    "AragÃ³n": "Aragón",
+    "CuitlÃ¡huac": "Cuitláhuac",
+    "Villa de CortÃ©s": "Villa de Cortés",
+    "Coyuya": "Coyuya",
+    "Ciudad Azteca": "Ciudad Azteca",
+    "Popotla": "Popotla",
+    "NiÃ±os HÃ©roes": "Niños Héroes",
+    "PerifÃ©rico Oriente": "Periférico Oriente",
+    "La Raza": "La Raza",
+    "PolitÃ©cnico": "Politécnico",
+    "MÃºzquiz": "Múzquiz",
+    "Allende": "Allende",
+    "Colegio Militar": "Colegio Militar",
+    "Tlatelolco": "Tlatelolco",
+    "NezahualcÃ³yotl": "Nezahualcóyotl",
+    "La Villa/BasÃ­lica": "La Villa/Basílica",
+    "Fray Servando": "Fray Servando",
+    "TalismÃ¡n": "Talismán",
+    "Lindavista": "Lindavista",
+    "Guerrero": "Guerrero",
+    "Boulevard Puerto AÃ©reo": "Boulevard Puerto Aéreo",
+    "EtiopÃ­a/Plaza de la Transparencia": "Etiopía/Plaza de la Transparencia",
+    "Bellas Artes": "Bellas Artes",
+    "Hospital General": "Hospital General",
+    "RefinerÃ­a": "Refinería",
+    "Impulsora": "Impulsora",
+    "TlÃ¡huac": "Tláhuac",
+    "Candelaria": "Candelaria",
+    "La Viga": "La Viga",
+    "Bondojito": "Bondojito",
+    "PeÃ±Ã³n Viejo": "Peñón Viejo",
+    "Moctezuma": "Moctezuma",
+    "Tlaltenco": "Tlaltenco",
+    "JuanacatlÃ¡n": "Juanacatlán",
+    "TasqueÃ±a": "Tasqueña",
+    "Insurgentes Sur": "Insurgentes Sur",
+    "San AndrÃ©s TomatlÃ¡n": "San Andrés Tomatlán",
+    "EscuadrÃ³n 201": "Escuadrón 201",
+    "Eugenia": "Eugenia",
+    "Buenavista": "Buenavista",
+    "RevoluciÃ³n": "Revolución",
+    "San Pedro de los Pinos": "San Pedro de los Pinos",
+    "El Rosario": "El Rosario",
+    "ZÃ³calo/Tenochtitlan": "Zócalo/Tenochtitlan",
+    "Ciudad Deportiva": "Ciudad Deportiva",
+    "Hospital 20 de Noviembre": "Hospital 20 de Noviembre",
+    "Lagunilla": "Lagunilla",
+    "Apatlaco": "Apatlaco",
+    "Deportivo 18 de Marzo": "Deportivo 18 de Marzo",
+    "Acatitla": "Acatitla",
+    "Parque de los Venados": "Parque de los Venados",
+    "GÃ³mez Farias": "Gómez Farías",
+    "Mixiuhca": "Mixiuhca",
+    "Santa Anita": "Santa Anita",
+    "San JoaquÃ­n": "San Joaquín",
+    "Garibaldi/Lagunilla": "Garibaldi/Lagunilla",
+    "Portales": "Portales",
+    "UAM-I": "UAM-I",
+    "Universidad": "Universidad",
+    "Romero Rubio": "Romero Rubio",
+    "Salto del Agua": "Salto del Agua",
+    "Potrero": "Potrero",
+    "VelÃ³dromo": "Velódromo",
+    "OlÃ­mpica": "Olímpica",
+    "Aquiles SerdÃ¡n": "Aquiles Serdán",
+    "CulhuacÃ¡n": "Culhuacán",
+    "Tepalcates": "Tepalcates",
+    "PantitlÃ¡n": "Pantitlán",
+    "Sevilla": "Sevilla",
+    "Ermita": "Ermita",
+    "Cerro de la Estrella": "Cerro de la Estrella",
+    "Chabacano": "Chabacano",
+    "San Cosme": "San Cosme",
+    "Patriotismo": "Patriotismo",
+    "OceanÃ­a": "Oceanía",
+    "Autobuses del Norte": "Autobuses del Norte",
+    "Norte 45": "Norte 45",
+    "Indios Verdes": "Indios Verdes",
+    "AgrÃ­cola Oriental": "Agrícola Oriental",
+    "Guelatao": "Guelatao",
+    "Instituto del PetrÃ³leo": "Instituto del Petróleo",
+    "Polanco": "Polanco",
+    "Zaragoza": "Zaragoza",
+    "Copilco": "Copilco",
+    "Pino SuÃ¡rez": "Pino Suárez",
+    "CuauhtÃ©moc": "Cuauhtémoc",
+    "Consulado": "Consulado",
+    "Vallejo": "Vallejo",
+    "Eje Central": "Eje Central",
+    "Santa Marta": "Santa Marta",
+    "San LÃ¡zaro": "San Lázaro",
+    "DivisiÃ³n del Norte": "División del Norte",
+    "Cuatro Caminos": "Cuatro Caminos",
+    "TezozÃ³moc": "Tezozómoc",
+    "Hidalgo": "Hidalgo",
+    "Lomas Estrella": "Lomas Estrella",
+    "Villa de AragÃ³n": "Villa de Aragón",
+    "Misterios": "Misterios",
+    "Iztapalapa": "Iztapalapa",
+    "Tepito": "Tepito",
+    "Miguel Ángel de Quevedo": "Miguel Ángel de Quevedo",
+    "Constituyentes": "Constituyentes",
+    "Xola": "Xola"
+  },
+  "lines": {
+    "Linea B": "Línea B",
+    "LÃ­nea 2": "Línea 2",
+    "Linea 6": "Línea 6",
+    "LÃ­nea 9": "Línea 9",
+    "LÃ­nea 3": "Línea 3",
+    "Linea A": "Línea A",
+    "Linea 12": "Línea 12",
+    "LÃ­nea 4": "Línea 4",
+    "Linea 9": "Línea 9",
+    "Linea 4": "Línea 4",
+    "LÃ­nea 8": "Línea 8",
+    "Linea 7": "Línea 7",
+    "LÃ­nea 5": "Línea 5",
+    "LÃ­nea A": "Línea A",
+    "Linea 2": "Línea 2",
+    "Linea 3": "Línea 3",
+    "Linea 8": "Línea 8",
+    "Linea 5": "Línea 5",
+    "LÃ­nea 7": "Línea 7",
+    "LÃ­nea 6": "Línea 6",
+    "LÃ­nea B": "Línea B",
+    "LÃ­nea 12": "Línea 12",
+    "LÃ­nea 1": "Línea 1",
+    "Linea 1": "Línea 1"
+  },
+  "coordinates": {
+    "Acatitla": {
+      "lat": 19.364737,
+      "lon": -99.005892
+    },
+    "Aculco": {
+      "lat": 19.350073,
+      "lon": -99.094673
+    },
+    "Agrícola Oriental": {
+      "lat": 19.407022,
+      "lon": -99.048887
+    },
+    "Allende": {
+      "lat": 19.435895,
+      "lon": -99.134474
+    },
+    "Apatlaco": {
+      "lat": 19.3931,
+      "lon": -99.10675
+    },
+    "Aquiles Serdán": {
+      "lat": 19.476117,
+      "lon": -99.16344
+    },
+    "Aragón": {
+      "lat": 19.468958,
+      "lon": -99.04644
+    },
+    "Atlalilco": {
+      "lat": 19.35619,
+      "lon": -99.08236
+    },
+    "Auditorio": {
+      "lat": 19.42751,
+      "lon": -99.19788
+    },
+    "Autobuses del Norte": {
+      "lat": 19.49713,
+      "lon": -99.1262
+    },
+    "Balbuena": {
+      "lat": 19.4247,
+      "lon": -99.106
+    },
+    "Balderas": {
+      "lat": 19.42675,
+      "lon": -99.149278
+    },
+    "Barranca del Muerto": {
+      "lat": 19.36725,
+      "lon": -99.19136
+    },
+    "Bellas Artes": {
+      "lat": 19.43599,
+      "lon": -99.14136
+    },
+    "Bondojito": {
+      "lat": 19.47197,
+      "lon": -99.05961
+    },
+    "Bosque de Aragón": {
+      "lat": 19.47678,
+      "lon": -99.03387
+    },
+    "Boulevard Puerto Aéreo": {
+      "lat": 19.41927,
+      "lon": -99.07231
+    },
+    "Buenavista": {
+      "lat": 19.44982,
+      "lon": -99.15496
+    },
+    "Calle 11": {
+      "lat": 19.33475,
+      "lon": -99.06237
+    },
+    "Camarones": {
+      "lat": 19.47144,
+      "lon": -99.17447
+    },
+    "Canal de San Juan": {
+      "lat": 19.40182,
+      "lon": -99.01169
+    },
+    "Canal del Norte": {
+      "lat": 19.4547,
+      "lon": -99.11678
+    },
+    "Candelaria": {
+      "lat": 19.427,
+      "lon": -99.11676
+    },
+    "Centro Médico": {
+      "lat": 19.40798,
+      "lon": -99.15325
+    },
+    "Cerro de la Estrella": {
+      "lat": 19.3333,
+      "lon": -99.0902
+    },
+    "Chabacano": {
+      "lat": 19.4018,
+      "lon": -99.132
+    },
+    "Chapultepec": {
+      "lat": 19.4226,
+      "lon": -99.18076
+    },
+    "Chilpancingo": {
+      "lat": 19.41589,
+      "lon": -99.16405
+    },
+    "Ciudad Azteca": {
+      "lat": 19.53977,
+      "lon": -99.00294
+    },
+    "Ciudad Deportiva": {
+      "lat": 19.40647,
+      "lon": -99.06296
+    },
+    "Colegio Militar": {
+      "lat": 19.46214,
+      "lon": -99.16876
+    },
+    "Constitución de 1917": {
+      "lat": 19.33758,
+      "lon": -99.03143
+    },
+    "Constituyentes": {
+      "lat": 19.42195,
+      "lon": -99.20399
+    },
+    "Consulado": {
+      "lat": 19.46263,
+      "lon": -99.10145
+    },
+    "Copilco": {
+      "lat": 19.33357,
+      "lon": -99.17133
+    },
+    "Coyoacán": {
+      "lat": 19.34592,
+      "lon": -99.15665
+    },
+    "Coyuya": {
+      "lat": 19.39338,
+      "lon": -99.09961
+    },
+    "Cuatro Caminos": {
+      "lat": 19.460046,
+      "lon": -99.215798
+    },
+    "Cuauhtémoc": {
+      "lat": 19.42394,
+      "lon": -99.16115
+    },
+    "Cuitláhuac": {
+      "lat": 19.46866,
+      "lon": -99.17464
+    },
+    "Culhuacán": {
+      "lat": 19.33063,
+      "lon": -99.11255
+    },
+    "Deportivo 18 de Marzo": {
+      "lat": 19.47614,
+      "lon": -99.13454
+    },
+    "Deportivo Oceanía": {
+      "lat": 19.44875,
+      "lon": -99.07275
+    },
+    "División del Norte": {
+      "lat": 19.37672,
+      "lon": -99.16229
+    },
+    "Doctores": {
+      "lat": 19.41197,
+      "lon": -99.14058
+    },
+    "Ecatepec": {
+      "lat": 19.55987,
+      "lon": -99.03562
+    },
+    "Eduardo Molina": {
+      "lat": 19.45629,
+      "lon": -99.08066
+    },
+    "Eje Central": {
+      "lat": 19.37019,
+      "lon": -99.09358
+    },
+    "El Rosario": {
+      "lat": 19.50821,
+      "lon": -99.18322
+    },
+    "Ermita": {
+      "lat": 19.381,
+      "lon": -99.1365
+    },
+    "Escuadrón 201": {
+      "lat": 19.35688,
+      "lon": -99.08236
+    },
+    "Etiopía/Plaza de la Transparencia": {
+      "lat": 19.40724,
+      "lon": -99.15912
+    },
+    "Eugenia": {
+      "lat": 19.38328,
+      "lon": -99.15498
+    },
+    "Ferrería/Arena Ciudad de México": {
+      "lat": 19.48976,
+      "lon": -99.15157
+    },
+    "Fray Servando": {
+      "lat": 19.41529,
+      "lon": -99.12529
+    },
+    "Garibaldi/Lagunilla": {
+      "lat": 19.44352,
+      "lon": -99.13704
+    },
+    "General Anaya": {
+      "lat": 19.3725,
+      "lon": -99.14926
+    },
+    "Guelatao": {
+      "lat": 19.39645,
+      "lon": -99.03413
+    },
+    "Guerrero": {
+      "lat": 19.44401,
+      "lon": -99.14723
+    },
+    "Gómez Farías": {
+      "lat": 19.41717,
+      "lon": -99.0908
+    },
+    "Hangares": {
+      "lat": 19.4317,
+      "lon": -99.0641
+    },
+    "Hidalgo": {
+      "lat": 19.43803,
+      "lon": -99.14706
+    },
+    "Hospital 20 de Noviembre": {
+      "lat": 19.3873,
+      "lon": -99.1173
+    },
+    "Hospital General": {
+      "lat": 19.40995,
+      "lon": -99.1553
+    },
+    "Impulsora": {
+      "lat": 19.49338,
+      "lon": -99.02154
+    },
+    "Indios Verdes": {
+      "lat": 19.49749,
+      "lon": -99.122307
+    },
+    "Instituto del Petróleo": {
+      "lat": 19.49027,
+      "lon": -99.14513
+    },
+    "Insurgentes": {
+      "lat": 19.42238,
+      "lon": -99.16576
+    },
+    "Insurgentes Sur": {
+      "lat": 19.37575,
+      "lon": -99.17032
+    },
+    "Isabel la Católica": {
+      "lat": 19.42853,
+      "lon": -99.13447
+    },
+    "Iztacalco": {
+      "lat": 19.39228,
+      "lon": -99.08746
+    },
+    "Iztapalapa": {
+      "lat": 19.3474,
+      "lon": -99.06683
+    },
+    "Jamaica": {
+      "lat": 19.40815,
+      "lon": -99.11377
+    },
+    "Juanacatlán": {
+      "lat": 19.41818,
+      "lon": -99.19322
+    },
+    "Juárez": {
+      "lat": 19.43184,
+      "lon": -99.15222
+    },
+    "La Paz": {
+      "lat": 19.395,
+      "lon": -98.9919
+    },
+    "La Raza": {
+      "lat": 19.46765,
+      "lon": -99.13639
+    },
+    "La Viga": {
+      "lat": 19.38933,
+      "lon": -99.0965
+    },
+    "La Villa/Basílica": {
+      "lat": 19.47981,
+      "lon": -99.11703
+    },
+    "Lagunilla": {
+      "lat": 19.44503,
+      "lon": -99.13314
+    },
+    "Lindavista": {
+      "lat": 19.48701,
+      "lon": -99.13131
+    },
+    "Lomas Estrella": {
+      "lat": 19.332,
+      "lon": -99.0827
+    },
+    "Los Reyes": {
+      "lat": 19.36906,
+      "lon": -98.99912
+    },
+    "Lázaro Cárdenas": {
+      "lat": 19.39866,
+      "lon": -99.12018
+    },
+    "Martín Carrera": {
+      "lat": 19.49851,
+      "lon": -99.09861
+    },
+    "Merced": {
+      "lat": 19.4287,
+      "lon": -99.12361
+    },
+    "Mexicaltzingo": {
+      "lat": 19.3672,
+      "lon": -99.1087
+    },
+    "Miguel Ángel de Quevedo": {
+      "lat": 19.34642,
+      "lon": -99.17808
+    },
+    "Misterios": {
+      "lat": 19.47497,
+      "lon": -99.1286
+    },
+    "Mixcoac": {
+      "lat": 19.37671,
+      "lon": -99.18185
+    },
+    "Mixiuhca": {
+      "lat": 19.40734,
+      "lon": -99.07945
+    },
+    "Moctezuma": {
+      "lat": 19.42334,
+      "lon": -99.09314
+    },
+    "Morelos": {
+      "lat": 19.44433,
+      "lon": -99.11963
+    },
+    "Múzquiz": {
+      "lat": 19.51955,
+      "lon": -99.00885
+    },
+    "Nativitas": {
+      "lat": 19.3721,
+      "lon": -99.1412
+    },
+    "Nezahualcóyotl": {
+      "lat": 19.5126,
+      "lon": -99.0159
+    },
+    "Niños Héroes": {
+      "lat": 19.42078,
+      "lon": -99.15398
+    },
+    "Nopalera": {
+      "lat": 19.31554,
+      "lon": -99.06261
+    },
+    "Normal": {
+      "lat": 19.45768,
+      "lon": -99.16582
+    },
+    "Norte 45": {
+      "lat": 19.49741,
+      "lon": -99.15877
+    },
+    "Obrera": {
+      "lat": 19.40616,
+      "lon": -99.1377
+    },
+    "Observatorio": {
+      "lat": 19.40098,
+      "lon": -99.20628
+    },
+    "Oceanía": {
+      "lat": 19.45168,
+      "lon": -99.07932
+    },
+    "Olivos": {
+      "lat": 19.32661,
+      "lon": -99.08347
+    },
+    "Olímpica": {
+      "lat": 19.50241,
+      "lon": -99.00651
+    },
+    "Panteones": {
+      "lat": 19.46152,
+      "lon": -99.17883
+    },
+    "Pantitlán": {
+      "lat": 19.415241,
+      "lon": -99.074503
+    },
+    "Parque de los Venados": {
+      "lat": 19.38654,
+      "lon": -99.17347
+    },
+    "Patriotismo": {
+      "lat": 19.40755,
+      "lon": -99.17546
+    },
+    "Periférico Oriente": {
+      "lat": 19.3331,
+      "lon": -99.03798
+    },
+    "Peñón Viejo": {
+      "lat": 19.40512,
+      "lon": -99.05124
+    },
+    "Pino Suárez": {
+      "lat": 19.4271,
+      "lon": -99.1337
+    },
+    "Plaza Aragón": {
+      "lat": 19.5293,
+      "lon": -98.987
+    },
+    "Polanco": {
+      "lat": 19.42887,
+      "lon": -99.19044
+    },
+    "Politécnico": {
+      "lat": 19.49253,
+      "lon": -99.14651
+    },
+    "Popotla": {
+      "lat": 19.45145,
+      "lon": -99.17466
+    },
+    "Portales": {
+      "lat": 19.37499,
+      "lon": -99.15006
+    },
+    "Potrero": {
+      "lat": 19.46771,
+      "lon": -99.12938
+    },
+    "Puebla": {
+      "lat": 19.40863,
+      "lon": -99.07283
+    },
+    "Refinería": {
+      "lat": 19.45084,
+      "lon": -99.19237
+    },
+    "Revolución": {
+      "lat": 19.4405,
+      "lon": -99.15861
+    },
+    "Ricardo Flores Magón": {
+      "lat": 19.44997,
+      "lon": -99.14206
+    },
+    "Romero Rubio": {
+      "lat": 19.44173,
+      "lon": -99.10507
+    },
+    "Río de los Remedios": {
+      "lat": 19.54757,
+      "lon": -99.01297
+    },
+    "Salto del Agua": {
+      "lat": 19.42723,
+      "lon": -99.14138
+    },
+    "San Andrés Tomatlán": {
+      "lat": 19.3297,
+      "lon": -99.0595
+    },
+    "San Antonio": {
+      "lat": 19.39356,
+      "lon": -99.19498
+    },
+    "San Antonio Abad": {
+      "lat": 19.41136,
+      "lon": -99.13106
+    },
+    "San Cosme": {
+      "lat": 19.44424,
+      "lon": -99.15772
+    },
+    "San Joaquín": {
+      "lat": 19.43264,
+      "lon": -99.20095
+    },
+    "San Juan de Letrán": {
+      "lat": 19.43001,
+      "lon": -99.14258
+    },
+    "San Lázaro": {
+      "lat": 19.43168,
+      "lon": -99.11758
+    },
+    "San Pedro de los Pinos": {
+      "lat": 19.38875,
+      "lon": -99.19126
+    },
+    "Santa Anita": {
+      "lat": 19.39893,
+      "lon": -99.10909
+    },
+    "Santa Marta": {
+      "lat": 19.3839,
+      "lon": -99.02683
+    },
+    "Sevilla": {
+      "lat": 19.42078,
+      "lon": -99.17377
+    },
+    "Tacuba": {
+      "lat": 19.45031,
+      "lon": -99.18424
+    },
+    "Tacubaya": {
+      "lat": 19.40243,
+      "lon": -99.18696
+    },
+    "Talismán": {
+      "lat": 19.47481,
+      "lon": -99.10778
+    },
+    "Tasqueña": {
+      "lat": 19.35337,
+      "lon": -99.13861
+    },
+    "Tepalcates": {
+      "lat": 19.3973,
+      "lon": -99.02819
+    },
+    "Tepito": {
+      "lat": 19.44694,
+      "lon": -99.12461
+    },
+    "Terminal Aérea": {
+      "lat": 19.43234,
+      "lon": -99.0709
+    },
+    "Tezonco": {
+      "lat": 19.3265,
+      "lon": -99.0774
+    },
+    "Tezozómoc": {
+      "lat": 19.49462,
+      "lon": -99.16788
+    },
+    "Tlaltenco": {
+      "lat": 19.30177,
+      "lon": -99.06375
+    },
+    "Tlatelolco": {
+      "lat": 19.45044,
+      "lon": -99.14075
+    },
+    "Tláhuac": {
+      "lat": 19.29418,
+      "lon": -99.0119
+    },
+    "UAM-Azcapotzalco": {
+      "lat": 19.4942,
+      "lon": -99.19381
+    },
+    "UAM-I": {
+      "lat": 19.35095,
+      "lon": -99.07318
+    },
+    "Universidad": {
+      "lat": 19.32707,
+      "lon": -99.175
+    },
+    "Valle Gómez": {
+      "lat": 19.45484,
+      "lon": -99.11046
+    },
+    "Vallejo": {
+      "lat": 19.49299,
+      "lon": -99.15505
+    },
+    "Velódromo": {
+      "lat": 19.41314,
+      "lon": -99.07274
+    },
+    "Viaducto": {
+      "lat": 19.40507,
+      "lon": -99.15853
+    },
+    "Villa de Aragón": {
+      "lat": 19.48198,
+      "lon": -99.02596
+    },
+    "Villa de Cortés": {
+      "lat": 19.3742,
+      "lon": -99.1451
+    },
+    "Viveros/Derechos Humanos": {
+      "lat": 19.33679,
+      "lon": -99.17579
+    },
+    "Xola": {
+      "lat": 19.39546,
+      "lon": -99.14892
+    },
+    "Zapata": {
+      "lat": 19.36912,
+      "lon": -99.16995
+    },
+    "Zapotitlán": {
+      "lat": 19.30172,
+      "lon": -99.05654
+    },
+    "Zaragoza": {
+      "lat": 19.41467,
+      "lon": -99.08253
+    },
+    "Zócalo/Tenochtitlan": {
+      "lat": 19.4325,
+      "lon": -99.132245
+    }
+  }
+}
